@@ -1,4 +1,4 @@
-# Tradu-o-SleepingDogs
+# Sleeping Dogs DE – Android PT-BR Translation Fix
 Tradução pt-br para o port de SleepingDogs DE para mobile
 # Sleeping Dogs: Definitive Edition – Android PT-BR Fix
 
